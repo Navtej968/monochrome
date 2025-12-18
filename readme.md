@@ -1,4 +1,4 @@
-# Monochrome
+# Monochrome(This is a backup REPO , since the original was abondoned)
 
 **Monochrome** is an open-source, privacy-respecting, ad-free [TIDAL](https://tidal.com) web UI, built on top of [Hi-Fi](https://github.com/sachinsenal0x64/hifi).
 
